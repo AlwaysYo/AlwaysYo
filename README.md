@@ -1,4 +1,4 @@
-## Hi there 👋   ![Visitor Count](https://profile-counter.glitch.me/AlwaysYo/count.svg)
+# Hi there 👋   ![Visitor Count](https://profile-counter.glitch.me/AlwaysYo/count.svg)
 
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
